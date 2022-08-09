@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "amita",
+      "email": "amitauknade89@gmail.com",
+      "mobile": "9552988614",
+      "address": "nsgpur",
+      "services": ""
+    },
+    {
+      "id": 3,
+      "name": "amita",
+      "email": "amitauknade89@gmail.com",
+      "mobile": "9552988614",
+      "address": "nagpur",
+      "services": "good"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "address": "",
+      "services": ""
+    },
+    {
+      "id": 6,
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "address": "",
+      "services": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
